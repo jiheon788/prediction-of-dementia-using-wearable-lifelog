@@ -814,7 +814,7 @@ for label, content in df.items():
 plt.tight_layout()
 ```
 
-![png](./images/./images/output_6_0.png)
+![png](./images/output_6_0.png)
 
 ```python
 df['sleep_is_longest'].unique()
